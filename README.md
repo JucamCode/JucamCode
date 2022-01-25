@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @JucamCode
-- 👀 I’m interested in learning with microverse
-- 🌱 I’m currently learning JavaScript and Ruby
-- 📫 How to reach me jucamcode@gmail.com
+- 👋 Hola soy @JucamCode
+- 👀 Estoy aprendiendo programación
+- 📫 Escribanme a jucamcode@gmail.com
