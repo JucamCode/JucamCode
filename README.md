@@ -1,4 +1,4 @@
 - 👋 Hola soy @JucamCode
-- 📫 Escribanme a jucamcode@proton.me
+- 📫 Escribanme a jucamcode@gmail.com
 
 Vivo en Colombia
